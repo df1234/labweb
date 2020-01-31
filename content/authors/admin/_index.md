@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Delia Fuhrmann
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer in Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Cambridge & King's College London
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
